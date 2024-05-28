@@ -6,3 +6,5 @@
 ## 808b541491df5f2f6beb4055246981274f3f6a2bb5aa13cc5b24e200938b241e
 # Qubic gate io
 ## DKZFZODBUVRORGIMAXBMCKWEONTAMPRBVTIFYHDQSEMCEFPPIOOJGAKFTUNC
+# Xelis
+## xel:vswddmfkjtfddy75phmsfj5ufrmyj27r0e02t6mzsvmhntzar4hsqmpl78q
