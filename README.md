@@ -8,3 +8,5 @@
 ## DKZFZODBUVRORGIMAXBMCKWEONTAMPRBVTIFYHDQSEMCEFPPIOOJGAKFTUNC
 # Xelis
 ## xel:vswddmfkjtfddy75phmsfj5ufrmyj27r0e02t6mzsvmhntzar4hsqmpl78q
+# kylacoin
+## kc1ql07cys0tu5tfama49gnc6vz5ncsk6klmkq92yz
