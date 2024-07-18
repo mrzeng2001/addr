@@ -10,3 +10,5 @@
 ## NQ92 A3K0 E7CQ JJHE B0S8 XJ1D DNPX MJ4U TLSL
 # spectre
 ## spectre:qqvqwehaz85lzjzqptq85hy2yppjkydvu2vm3rjq2tf9p09g72tt58yexj0tk
+# salium
+## SaLvsBuS5yAQWYD9jo2Zd5E1w7JWtyDKK8r1r7rMjE6wVYdDFGacX2A5TgpsE6JVzhYQwPahpcuZncEiGWaWVsBgLVvbduXiQnP
