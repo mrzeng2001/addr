@@ -1,3 +1,2 @@
 # Monero miner
 ## 48uiViv9kjLMAr6a8VRhciQfgoEee4HzBiWx5UGKmahHAUpQUHiGbR5Cy72ZiUwevjfqcoySJfQdYaANGeYzchWT8s4UJ1x
-rin1q54vtw5qh70h9etlcshf78396sq5dsnyh57mh7g
